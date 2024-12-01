@@ -25,14 +25,37 @@ html, body {
 
 .flex-container {
     display: flex;
+    background: peachpuff;
 }
 
 .flex-container div {
-    background: peachpuff;
-    border: 4px solid red;
-    height: 60px;
     flex: 1 1 auto;
     align-items: center;
     justify-content: center;
     display: flex;
+}
+
+.header-item{
+    height: 60px;
+    border: 4px solid red;
+}
+
+div.section {
+    height: 400px;
+    padding-left: 10%;
+    padding-right: 10%;
+    border: 4px solid red;
+}
+
+.section-item {
+    height: 260px;
+    border: 4px solid red;
+}
+
+#section2-title {
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: peachpuff;
 }
