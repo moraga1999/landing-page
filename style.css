@@ -93,6 +93,14 @@ div.section {
 
 .subtext {
     width: 200px;
-    display: flex;
     text-align: center;
+}
+
+.quote-text {
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+    width: 1000px;
+    text-align: end;
+    margin: 0%;
 }
