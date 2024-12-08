@@ -1,5 +1,5 @@
 ## Landing page, The Odin Project
-This is the first project I made for The Odin Project, part of the Fundamentals path. In this project, I created a landing page following the instructions provided on the website.
+This is the first project I made for The Odin Project, part of the Foundations path. In this project, I created a landing page following the instructions provided on the website.
 It's a basic introduction to HTML and CSS using flexbox properties.
 
 ## Design guide
